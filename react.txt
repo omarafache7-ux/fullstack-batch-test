@@ -1,0 +1,9 @@
+- we add assets imgs , font files,
+-components very recommended to seperate our reusable components
+-pages were usaully contain react to present pages corresponds to specific rout
+-utils contains utility for use for differents accross differents components
+-index.js entry point, app.js showing in the website
+-class component (usaully not used) and function component
+-ctrl+K+C
+-function component can only return one parent element
+-use fragmant
