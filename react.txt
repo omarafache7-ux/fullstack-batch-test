@@ -7,3 +7,6 @@
 -ctrl+K+C
 -function component can only return one parent element
 -use fragmant
+
+- use state is a hook to allow functional component to work
+ -simplify state mangemnent
